@@ -22,7 +22,7 @@ Input layer: Number of neurons equals the number of features.
 Hidden layers: 80 neurons in the first hidden layer and 30 neurons in the second, both using ReLU activation (to help learn patterns).
 Output layer: 1 neuron with sigmoid activation for binary classification (predicting success or failure).
 Training:
-The model was trained for 60 epochs with a batch size of 32. The model used the Adam optimizer and binary cross-entropy as the loss function.
+The model was trained for 60 epochs with a batch size of 32.
 Evaluation Results:
 The model’s performance on the test set was:
 Loss: 0.5672
