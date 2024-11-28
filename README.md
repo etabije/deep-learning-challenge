@@ -1,9 +1,9 @@
 # deep-learning-challenge
 
-1. Overview of the Analysis
+Overview of the Analysis
 The goal of this analysis was to build a neural network to predict whether a charity application is successful or not based on certain features in the data. The task involved preprocessing the data, training a neural network, and evaluating its performance.
 
-2. Results
+Results
 Data Preprocessing
 
 Target Variable:
@@ -30,7 +30,8 @@ Accuracy: 0.7251
 This means the model was able to correctly predict whether an application was successful 72% of the time.
 Steps to Improve Performance:
 Tried changing the number of epochs.
-3. Summary
+
+Summary
 Overall Results:
 
 The model achieved 72% accuracy on the test set, which is a solid result but can be improved and did not meet the expectation of 75%
