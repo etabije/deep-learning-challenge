@@ -38,3 +38,5 @@ Recommendation for Alternative Models:
 
 Random Forests could work better for this task because they are often able to perform well with tabular data.
 They also show which features are important for predictions.
+
+Resources Professor Melissa Ingle Cassidy Cruz (classmate) ChatGPT Xpert Learning Assistant
